@@ -1,53 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-12-29T23:40:26 EST" name="Default suite" finished-at="2022-12-29T23:41:15 EST" duration-ms="48719">
+  <suite started-at="2023-01-03T21:43:00 EST" name="Default suite" finished-at="2023-01-03T21:43:35 EST" duration-ms="34465">
     <groups>
     </groups>
-    <test started-at="2022-12-29T23:40:26 EST" name="Default test" finished-at="2022-12-29T23:41:15 EST" duration-ms="48719">
+    <test started-at="2023-01-03T21:43:00 EST" name="Default test" finished-at="2023-01-03T21:43:35 EST" duration-ms="34465">
       <class name="TestCase.TestCase">
-        <test-method is-config="true" signature="open()[pri:0, instance:TestCase.TestCase@c8c12ac]" started-at="2022-12-29T23:40:26 EST" name="open" finished-at="2022-12-29T23:40:28 EST" duration-ms="1547" status="PASS">
+        <test-method is-config="true" signature="open()[pri:0, instance:TestCase.TestCase@1a482e36]" started-at="2023-01-03T21:43:00 EST" name="open" finished-at="2023-01-03T21:43:02 EST" duration-ms="2091" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- open -->
-        <test-method signature="test1()[pri:0, instance:TestCase.TestCase@c8c12ac]" started-at="2022-12-29T23:40:28 EST" name="test1" finished-at="2022-12-29T23:40:29 EST" duration-ms="985" status="PASS">
+        <test-method signature="test1()[pri:0, instance:TestCase.TestCase@1a482e36]" started-at="2023-01-03T21:43:02 EST" name="test1" finished-at="2023-01-03T21:43:04 EST" duration-ms="1168" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method signature="test2()[pri:0, instance:TestCase.TestCase@c8c12ac]" started-at="2022-12-29T23:40:29 EST" name="test2" finished-at="2022-12-29T23:40:29 EST" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- test2 -->
-        <test-method signature="test3()[pri:0, instance:TestCase.TestCase@c8c12ac]" started-at="2022-12-29T23:40:29 EST" name="test3" finished-at="2022-12-29T23:40:30 EST" duration-ms="1484" status="PASS">
+        <test-method signature="test3()[pri:0, instance:TestCase.TestCase@1a482e36]" started-at="2023-01-03T21:43:04 EST" name="test3" finished-at="2023-01-03T21:43:06 EST" duration-ms="2106" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test3 -->
-        <test-method signature="test4()[pri:0, instance:TestCase.TestCase@c8c12ac]" started-at="2022-12-29T23:40:30 EST" name="test4" finished-at="2022-12-29T23:40:33 EST" duration-ms="2791" status="PASS">
+        <test-method signature="test4()[pri:0, instance:TestCase.TestCase@1a482e36]" started-at="2023-01-03T21:43:06 EST" name="test4" finished-at="2023-01-03T21:43:09 EST" duration-ms="2957" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test4 -->
-        <test-method signature="test5()[pri:0, instance:TestCase.TestCase@c8c12ac]" started-at="2022-12-29T23:40:33 EST" name="test5" finished-at="2022-12-29T23:40:45 EST" duration-ms="11502" status="PASS">
+        <test-method signature="test5()[pri:0, instance:TestCase.TestCase@1a482e36]" started-at="2023-01-03T21:43:09 EST" name="test5" finished-at="2023-01-03T21:43:20 EST" duration-ms="11518" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test5 -->
-        <test-method signature="test6()[pri:0, instance:TestCase.TestCase@c8c12ac]" started-at="2022-12-29T23:40:45 EST" name="test6" finished-at="2022-12-29T23:40:47 EST" duration-ms="2162" status="PASS">
+        <test-method signature="test6()[pri:0, instance:TestCase.TestCase@1a482e36]" started-at="2023-01-03T21:43:20 EST" name="test6" finished-at="2023-01-03T21:43:22 EST" duration-ms="2180" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test6 -->
-        <test-method signature="test7()[pri:0, instance:TestCase.TestCase@c8c12ac]" started-at="2022-12-29T23:40:47 EST" name="test7" finished-at="2022-12-29T23:40:56 EST" duration-ms="8745" status="PASS">
+        <test-method signature="test7()[pri:0, instance:TestCase.TestCase@1a482e36]" started-at="2023-01-03T21:43:22 EST" name="test7" finished-at="2023-01-03T21:43:31 EST" duration-ms="8765" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test7 -->
-        <test-method signature="test8()[pri:0, instance:TestCase.TestCase@c8c12ac]" started-at="2022-12-29T23:40:56 EST" name="test8" finished-at="2022-12-29T23:40:56 EST" duration-ms="110" status="PASS">
+        <test-method signature="test8()[pri:0, instance:TestCase.TestCase@1a482e36]" started-at="2023-01-03T21:43:31 EST" name="test8" finished-at="2023-01-03T21:43:31 EST" duration-ms="106" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test8 -->
-        <test-method signature="test9()[pri:0, instance:TestCase.TestCase@c8c12ac]" started-at="2022-12-29T23:40:56 EST" name="test9" finished-at="2022-12-29T23:40:59 EST" duration-ms="3069" status="PASS">
+        <test-method signature="test9()[pri:0, instance:TestCase.TestCase@1a482e36]" started-at="2023-01-03T21:43:31 EST" name="test9" finished-at="2023-01-03T21:43:34 EST" duration-ms="3058" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test9 -->
-        <test-method is-config="true" signature="close()[pri:0, instance:TestCase.TestCase@c8c12ac]" started-at="2022-12-29T23:40:59 EST" name="close" finished-at="2022-12-29T23:41:15 EST" duration-ms="16267" status="PASS">
+        <test-method is-config="true" signature="close()[pri:0, instance:TestCase.TestCase@1a482e36]" started-at="2023-01-03T21:43:34 EST" name="close" finished-at="2023-01-03T21:43:35 EST" duration-ms="467" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
